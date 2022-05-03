@@ -1,0 +1,73 @@
+@import '../../index.scss';
+
+.eventCard {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: rgba($color-light, 0.2);
+	backdrop-filter: blur(2rem);
+	border-radius: 3rem;
+	box-shadow: 0.5rem 1.5rem 4rem rgba($color-dark, 0.03);
+	overflow: hidden;
+	margin-bottom: 2rem;
+	padding: 2rem;
+	padding-top: 4rem;
+	width: 28.5rem;
+	height: 40rem;
+	transition: all 0.3s;
+
+	&:hover {
+		transform: scale(1.05);
+		box-shadow: 0.5rem 1.5rem 0.5rem rgba($color-dark, 0.3);
+	}
+}
+
+.eventCard__info {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.eventCard__title--container {
+	display: flex;
+	flex-direction: column;
+	width: 60%;
+}
+
+.eventCard__title {
+	font-size: 1.6rem;
+	color: #f59126;
+}
+
+.eventCard__subTitle {
+	font-size: 1.8rem;
+	margin-bottom: 2rem;
+}
+
+.eventCard__time {
+	font-size: 1.6rem;
+}
+
+.eventCard__date {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+	width: 30%;
+	height: 15rem;
+}
+
+.eventCard__day {
+	font-size: 3.6rem;
+}
+
+.eventCard__month {
+	letter-spacing: 0.2rem;
+}
+
+.eventCard__image {
+	border-radius: 2.5rem;
+	width: 23rem;
+	height: 18rem;
+	object-fit: cover;
+}

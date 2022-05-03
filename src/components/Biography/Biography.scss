@@ -1,0 +1,123 @@
+@import '../../index.scss';
+
+.biography {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -13rem;
+  width: 100vw;
+  min-height: 100vh;
+  z-index: 10;
+}
+
+.biography__card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba($color-light, 0.4);
+  border: 0.1rem solid rgba($color-light, 0.2);
+  border-radius: 5rem;
+  box-shadow: 0.5rem 1.5rem 4rem rgba($color-dark, 0.03);
+  backdrop-filter: blur(3rem);
+  -webkit-backdrop-filter: blur(3rem);
+  width: 80%;
+  padding: 0 4rem 4rem 4rem;
+  height: 75vh;
+}
+
+.biography__close--container{
+  display: flex;
+  justify-content: flex-end;
+  align-self: flex-start;
+  width: 100%;
+  padding: 1rem 0 0 0;
+}
+
+.biography__close {
+  background-color: $color-light;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 3rem;
+  box-shadow: 0.3rem 0.3rem 1rem rgba($color-dark, 0.8);
+}
+
+.biography__container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10rem;
+}
+
+.biography__image {
+  border-radius: 3.5rem;
+  width: 28rem;
+}
+
+.biography__info {
+  margin-left: 5rem;
+}
+
+.biography__name {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.biography__position {
+  font-size: 1.5rem;
+}
+
+.biography__paragraph {
+  font-size: 1.25rem;
+  margin-top: 2rem;
+}
+
+.biography__links {
+  display: flex;
+  position: absolute;
+  padding-top: 20vh;
+}
+
+.biography__link {
+  color: $color-dark;
+  font-size: 2rem;
+  text-decoration: none;
+  transition: all 0.5s;
+  padding-inline: 1rem;
+
+  &:hover {
+    color: #5564f2;
+    transform: scale(1.1) translateX(5rem);
+  }
+}
+
+@supports not ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
+  .biography__card {
+    background-color: rgba(#e4ecec, .9);
+  }
+}
+
+@media (max-width: 1120px){
+  .biography__card {
+    height: 95%;
+  }
+  .biography__container{
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0.5rem;
+    text-align: center;
+  }
+  .biography__info {
+    margin-left: 0;
+  }
+
+  .biography__paragraph {
+    margin-top: 0.5rem;
+  }
+}
+
+@media (max-width: 500px){
+  .biography__card{
+    width: 95%;
+  }
+}

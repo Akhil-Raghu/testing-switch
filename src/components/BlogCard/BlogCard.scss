@@ -1,0 +1,39 @@
+@import '../../index.scss';
+
+.blogCard {
+  display: flex;
+  flex-direction: column;
+  border-radius: 3rem;
+  margin-bottom: 5rem;
+  width: 32rem;
+  cursor: pointer;
+  transition: all 0.3s;
+
+  &:hover {
+    transform: scale(1.05);
+		-webkit-filter: drop-shadow(0.5rem 1.5rem 0.5rem rgba($color-dark, 0.3));
+  }
+}
+
+.blogCard__image {
+  border-radius: 3rem;
+  min-height: 30rem;
+  width: 32rem;
+  margin-bottom: 5rem;
+}
+
+.blogCard__title {
+  color: #5564f2;
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
+}
+
+.blogCard__paragraph {
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+}
+
+.blogCard__date {
+  color: #79727c;
+  font-size: 1.8rem;
+}
