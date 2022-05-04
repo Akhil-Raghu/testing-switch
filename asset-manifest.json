@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/testing-switch/static/css/main.637a8523.css",
-    "main.js": "/testing-switch/static/js/main.30416a71.js",
+    "main.js": "/testing-switch/static/js/main.b3d16cb7.js",
     "static/media/animatedcommunity.png": "/testing-switch/static/media/animatedcommunity.18fa216d41b3d5705ffa.png",
     "static/media/animatedstability.png": "/testing-switch/static/media/animatedstability.22022d2dfdaf27987000.png",
     "static/media/animatedliquidity.png": "/testing-switch/static/media/animatedliquidity.2dbbb3af9023819e0d2b.png",
+    "static/media/sustainability.png": "/testing-switch/static/media/sustainability.0960ccffc9cce34f2dcb.png",
+    "static/media/equity.png": "/testing-switch/static/media/equity.098a222b7933f9115ecb.png",
     "static/media/streets.png": "/testing-switch/static/media/streets.e4896164a51db2ec102a.png",
     "static/media/newblogo.png": "/testing-switch/static/media/newblogo.958ade901d29e8bf89ec.png",
     "static/media/newwlogo.png": "/testing-switch/static/media/newwlogo.a36f4eb0cedfd709747c.png",
@@ -22,10 +24,10 @@
     "static/media/img3.jpeg": "/testing-switch/static/media/img3.ae21574e45f4ac32e73e.jpeg",
     "index.html": "/testing-switch/index.html",
     "main.637a8523.css.map": "/testing-switch/static/css/main.637a8523.css.map",
-    "main.30416a71.js.map": "/testing-switch/static/js/main.30416a71.js.map"
+    "main.b3d16cb7.js.map": "/testing-switch/static/js/main.b3d16cb7.js.map"
   },
   "entrypoints": [
     "static/css/main.637a8523.css",
-    "static/js/main.30416a71.js"
+    "static/js/main.b3d16cb7.js"
   ]
 }
