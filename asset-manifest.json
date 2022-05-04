@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testing-switch/static/css/main.79c41bfe.css",
-    "main.js": "/testing-switch/static/js/main.b3d16cb7.js",
+    "main.js": "/testing-switch/static/js/main.fb2fdea9.js",
     "static/media/animatedcommunity.png": "/testing-switch/static/media/animatedcommunity.18fa216d41b3d5705ffa.png",
     "static/media/animatedstability.png": "/testing-switch/static/media/animatedstability.22022d2dfdaf27987000.png",
     "static/media/animatedliquidity.png": "/testing-switch/static/media/animatedliquidity.2dbbb3af9023819e0d2b.png",
@@ -16,6 +16,8 @@
     "static/media/Community.png": "/testing-switch/static/media/Community.c6a0a0e42e9bd83f586a.png",
     "static/media/realestate.png": "/testing-switch/static/media/realestate.0911137e5208814ddb2b.png",
     "static/media/communitycenter.png": "/testing-switch/static/media/communitycenter.9ad78d474135865c3c97.png",
+    "static/media/Liquidity.png": "/testing-switch/static/media/Liquidity.a62269d501b5bf49df42.png",
+    "static/media/Stability.png": "/testing-switch/static/media/Stability.d85bcbd0e2f9bd55d92e.png",
     "static/media/img2.jpeg": "/testing-switch/static/media/img2.50e6bb0959df3cc66a2e.jpeg",
     "static/media/creatives.png": "/testing-switch/static/media/creatives.328c20ea544df3cd437d.png",
     "static/media/transparent8.png": "/testing-switch/static/media/transparent8.915f1014fea063ce960d.png",
@@ -24,10 +26,10 @@
     "static/media/img3.jpeg": "/testing-switch/static/media/img3.ae21574e45f4ac32e73e.jpeg",
     "index.html": "/testing-switch/index.html",
     "main.79c41bfe.css.map": "/testing-switch/static/css/main.79c41bfe.css.map",
-    "main.b3d16cb7.js.map": "/testing-switch/static/js/main.b3d16cb7.js.map"
+    "main.fb2fdea9.js.map": "/testing-switch/static/js/main.fb2fdea9.js.map"
   },
   "entrypoints": [
     "static/css/main.79c41bfe.css",
-    "static/js/main.b3d16cb7.js"
+    "static/js/main.fb2fdea9.js"
   ]
 }
