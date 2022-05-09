@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/testing-switch/static/css/main.24304be5.css",
-    "main.js": "/testing-switch/static/js/main.5868ca31.js",
+    "main.css": "/testing-switch/static/css/main.1273aead.css",
+    "main.js": "/testing-switch/static/js/main.63213150.js",
+    "static/media/animatedcommunity.png": "/testing-switch/static/media/animatedcommunity.18fa216d41b3d5705ffa.png",
+    "static/media/animatedstability.png": "/testing-switch/static/media/animatedstability.22022d2dfdaf27987000.png",
+    "static/media/animatedliquidity.png": "/testing-switch/static/media/animatedliquidity.2dbbb3af9023819e0d2b.png",
+    "static/media/sustainability.png": "/testing-switch/static/media/sustainability.0960ccffc9cce34f2dcb.png",
+    "static/media/equity.png": "/testing-switch/static/media/equity.098a222b7933f9115ecb.png",
     "static/media/streets.png": "/testing-switch/static/media/streets.e4896164a51db2ec102a.png",
     "static/media/newblogo.png": "/testing-switch/static/media/newblogo.958ade901d29e8bf89ec.png",
     "static/media/newwlogo.png": "/testing-switch/static/media/newwlogo.a36f4eb0cedfd709747c.png",
-    "static/media/transparent3.png": "/testing-switch/static/media/transparent3.e2476abb7a626623c3a0.png",
     "static/media/institutions.png": "/testing-switch/static/media/institutions.31b2248641be5c955d1d.png",
-    "static/media/transparent7.png": "/testing-switch/static/media/transparent7.c72b1d238f6b2501d914.png",
-    "static/media/transparent1.png": "/testing-switch/static/media/transparent1.49c1c6d24c61b3005582.png",
-    "static/media/transparent2.png": "/testing-switch/static/media/transparent2.f41715228d4a36a59d81.png",
+    "static/media/paths.png": "/testing-switch/static/media/paths.750e569df9f7c369571c.png",
+    "static/media/test_video.mp4": "/testing-switch/static/media/test_video.df3f69fb7b9d98d387e9.mp4",
+    "static/media/gas.png": "/testing-switch/static/media/gas.cfcfd3456b97765c0a8a.png",
     "static/media/Community.png": "/testing-switch/static/media/Community.c6a0a0e42e9bd83f586a.png",
     "static/media/realestate.png": "/testing-switch/static/media/realestate.0911137e5208814ddb2b.png",
     "static/media/communitycenter.png": "/testing-switch/static/media/communitycenter.9ad78d474135865c3c97.png",
@@ -18,17 +22,16 @@
     "static/media/img2.jpeg": "/testing-switch/static/media/img2.50e6bb0959df3cc66a2e.jpeg",
     "static/media/creatives.png": "/testing-switch/static/media/creatives.328c20ea544df3cd437d.png",
     "static/media/transparent8.png": "/testing-switch/static/media/transparent8.915f1014fea063ce960d.png",
-    "static/media/transparent9.png": "/testing-switch/static/media/transparent9.ffabd754bc08ba640fb2.png",
     "static/media/crypto.png": "/testing-switch/static/media/crypto.e7802294a2550ed31546.png",
-    "static/media/main_media.mp4": "/testing-switch/static/media/main_media.10b6d69b984b55f179d8.mp4",
     "static/media/img1.jpeg": "/testing-switch/static/media/img1.bd7ef9c52166e58277b0.jpeg",
     "static/media/img3.jpeg": "/testing-switch/static/media/img3.ae21574e45f4ac32e73e.jpeg",
+    "static/media/founder.jpg": "/testing-switch/static/media/founder.98d7da2ce85d909d48e6.jpg",
     "index.html": "/testing-switch/index.html",
-    "main.24304be5.css.map": "/testing-switch/static/css/main.24304be5.css.map",
-    "main.5868ca31.js.map": "/testing-switch/static/js/main.5868ca31.js.map"
+    "main.1273aead.css.map": "/testing-switch/static/css/main.1273aead.css.map",
+    "main.63213150.js.map": "/testing-switch/static/js/main.63213150.js.map"
   },
   "entrypoints": [
-    "static/css/main.24304be5.css",
-    "static/js/main.5868ca31.js"
+    "static/css/main.1273aead.css",
+    "static/js/main.63213150.js"
   ]
 }
