@@ -1,37 +1,38 @@
 {
   "files": {
-    "main.css": "/testing-switch/static/css/main.1273aead.css",
-    "main.js": "/testing-switch/static/js/main.63213150.js",
-    "static/media/animatedcommunity.png": "/testing-switch/static/media/animatedcommunity.18fa216d41b3d5705ffa.png",
-    "static/media/animatedstability.png": "/testing-switch/static/media/animatedstability.22022d2dfdaf27987000.png",
-    "static/media/animatedliquidity.png": "/testing-switch/static/media/animatedliquidity.2dbbb3af9023819e0d2b.png",
-    "static/media/sustainability.png": "/testing-switch/static/media/sustainability.0960ccffc9cce34f2dcb.png",
-    "static/media/equity.png": "/testing-switch/static/media/equity.098a222b7933f9115ecb.png",
+    "main.css": "/testing-switch/static/css/main.871e918a.css",
+    "main.js": "/testing-switch/static/js/main.35d56fa2.js",
     "static/media/streets.png": "/testing-switch/static/media/streets.e4896164a51db2ec102a.png",
     "static/media/newblogo.png": "/testing-switch/static/media/newblogo.958ade901d29e8bf89ec.png",
     "static/media/newwlogo.png": "/testing-switch/static/media/newwlogo.a36f4eb0cedfd709747c.png",
+    "static/media/community.png": "/testing-switch/static/media/community.e2476abb7a626623c3a0.png",
     "static/media/institutions.png": "/testing-switch/static/media/institutions.31b2248641be5c955d1d.png",
+    "static/media/stability.png": "/testing-switch/static/media/stability.49c1c6d24c61b3005582.png",
+    "static/media/liquidity.png": "/testing-switch/static/media/liquidity.f41715228d4a36a59d81.png",
     "static/media/paths.png": "/testing-switch/static/media/paths.750e569df9f7c369571c.png",
-    "static/media/test_video.mp4": "/testing-switch/static/media/test_video.df3f69fb7b9d98d387e9.mp4",
     "static/media/gas.png": "/testing-switch/static/media/gas.cfcfd3456b97765c0a8a.png",
     "static/media/Community.png": "/testing-switch/static/media/Community.c6a0a0e42e9bd83f586a.png",
     "static/media/realestate.png": "/testing-switch/static/media/realestate.0911137e5208814ddb2b.png",
+    "static/media/Wordmark.png": "/testing-switch/static/media/Wordmark.274805a7957bc5b2a182.png",
     "static/media/communitycenter.png": "/testing-switch/static/media/communitycenter.9ad78d474135865c3c97.png",
     "static/media/Liquidity.png": "/testing-switch/static/media/Liquidity.a62269d501b5bf49df42.png",
     "static/media/Stability.png": "/testing-switch/static/media/Stability.d85bcbd0e2f9bd55d92e.png",
     "static/media/img2.jpeg": "/testing-switch/static/media/img2.50e6bb0959df3cc66a2e.jpeg",
     "static/media/creatives.png": "/testing-switch/static/media/creatives.328c20ea544df3cd437d.png",
-    "static/media/transparent8.png": "/testing-switch/static/media/transparent8.915f1014fea063ce960d.png",
+    "static/media/vehicle.png": "/testing-switch/static/media/vehicle.915f1014fea063ce960d.png",
     "static/media/crypto.png": "/testing-switch/static/media/crypto.e7802294a2550ed31546.png",
     "static/media/img1.jpeg": "/testing-switch/static/media/img1.bd7ef9c52166e58277b0.jpeg",
     "static/media/img3.jpeg": "/testing-switch/static/media/img3.ae21574e45f4ac32e73e.jpeg",
-    "static/media/founder.jpg": "/testing-switch/static/media/founder.98d7da2ce85d909d48e6.jpg",
+    "static/media/Twitter.png": "/testing-switch/static/media/Twitter.b1bbb6dcd9902725d103.png",
+    "static/media/Mishka.jpeg": "/testing-switch/static/media/Mishka.8e321d7d61e9cfb900e7.jpeg",
+    "static/media/Discord.png": "/testing-switch/static/media/Discord.d1c96e3268bb2c5b88a6.png",
+    "static/media/Telegram.png": "/testing-switch/static/media/Telegram.635b3f850bf7cf2df04c.png",
     "index.html": "/testing-switch/index.html",
-    "main.1273aead.css.map": "/testing-switch/static/css/main.1273aead.css.map",
-    "main.63213150.js.map": "/testing-switch/static/js/main.63213150.js.map"
+    "main.871e918a.css.map": "/testing-switch/static/css/main.871e918a.css.map",
+    "main.35d56fa2.js.map": "/testing-switch/static/js/main.35d56fa2.js.map"
   },
   "entrypoints": [
-    "static/css/main.1273aead.css",
-    "static/js/main.63213150.js"
+    "static/css/main.871e918a.css",
+    "static/js/main.35d56fa2.js"
   ]
 }
