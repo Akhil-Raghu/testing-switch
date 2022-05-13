@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/testing-switch/static/css/main.871e918a.css",
-    "main.js": "/testing-switch/static/js/main.35d56fa2.js",
+    "main.css": "/testing-switch/static/css/main.3721339e.css",
+    "main.js": "/testing-switch/static/js/main.62b39a78.js",
     "static/media/streets.png": "/testing-switch/static/media/streets.e4896164a51db2ec102a.png",
     "static/media/newblogo.png": "/testing-switch/static/media/newblogo.958ade901d29e8bf89ec.png",
     "static/media/newwlogo.png": "/testing-switch/static/media/newwlogo.a36f4eb0cedfd709747c.png",
@@ -13,8 +13,8 @@
     "static/media/gas.png": "/testing-switch/static/media/gas.cfcfd3456b97765c0a8a.png",
     "static/media/Community.png": "/testing-switch/static/media/Community.c6a0a0e42e9bd83f586a.png",
     "static/media/realestate.png": "/testing-switch/static/media/realestate.0911137e5208814ddb2b.png",
-    "static/media/Wordmark.png": "/testing-switch/static/media/Wordmark.274805a7957bc5b2a182.png",
     "static/media/communitycenter.png": "/testing-switch/static/media/communitycenter.9ad78d474135865c3c97.png",
+    "static/media/Wordmark.png": "/testing-switch/static/media/Wordmark.c0e14161c25dcdda3012.png",
     "static/media/Liquidity.png": "/testing-switch/static/media/Liquidity.a62269d501b5bf49df42.png",
     "static/media/Stability.png": "/testing-switch/static/media/Stability.d85bcbd0e2f9bd55d92e.png",
     "static/media/img2.jpeg": "/testing-switch/static/media/img2.50e6bb0959df3cc66a2e.jpeg",
@@ -28,11 +28,11 @@
     "static/media/Discord.png": "/testing-switch/static/media/Discord.d1c96e3268bb2c5b88a6.png",
     "static/media/Telegram.png": "/testing-switch/static/media/Telegram.635b3f850bf7cf2df04c.png",
     "index.html": "/testing-switch/index.html",
-    "main.871e918a.css.map": "/testing-switch/static/css/main.871e918a.css.map",
-    "main.35d56fa2.js.map": "/testing-switch/static/js/main.35d56fa2.js.map"
+    "main.3721339e.css.map": "/testing-switch/static/css/main.3721339e.css.map",
+    "main.62b39a78.js.map": "/testing-switch/static/js/main.62b39a78.js.map"
   },
   "entrypoints": [
-    "static/css/main.871e918a.css",
-    "static/js/main.35d56fa2.js"
+    "static/css/main.3721339e.css",
+    "static/js/main.62b39a78.js"
   ]
 }
