@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/testing-switch/static/css/main.5a2336cf.css",
-    "main.js": "/testing-switch/static/js/main.9424c388.js",
+    "main.css": "/testing-switch/static/css/main.b2450f36.css",
+    "main.js": "/testing-switch/static/js/main.fefe4a08.js",
     "static/media/animatedcommunity.png": "/testing-switch/static/media/animatedcommunity.18fa216d41b3d5705ffa.png",
     "static/media/animatedstability.png": "/testing-switch/static/media/animatedstability.22022d2dfdaf27987000.png",
+    "static/media/Diversity.png": "/testing-switch/static/media/Diversity.76ec82812466bcfdecac.png",
     "static/media/animatedliquidity.png": "/testing-switch/static/media/animatedliquidity.2dbbb3af9023819e0d2b.png",
-    "static/media/final.mp4": "/testing-switch/static/media/final.70737ae3af21819b6a7b.mp4",
+    "static/media/final.mp4": "/testing-switch/static/media/final.d626c3d9c19e35362b58.mp4",
     "static/media/roadmap.png": "/testing-switch/static/media/roadmap.c3d99bb4051d6dcbba16.png",
     "static/media/sustainability.png": "/testing-switch/static/media/sustainability.84c96c8c7b62c0b05e92.png",
     "static/media/equity.png": "/testing-switch/static/media/equity.bcf2039df01d70adee14.png",
@@ -24,8 +25,8 @@
     "static/media/telegram.png": "/testing-switch/static/media/telegram.9b3668708410c45831f0.png",
     "static/media/Stability.png": "/testing-switch/static/media/Stability.d85bcbd0e2f9bd55d92e.png",
     "static/media/img2.jpeg": "/testing-switch/static/media/img2.50e6bb0959df3cc66a2e.jpeg",
+    "static/media/vehicle.png": "/testing-switch/static/media/vehicle.dbd9ccc857c091ade1bf.png",
     "static/media/creatives.png": "/testing-switch/static/media/creatives.328c20ea544df3cd437d.png",
-    "static/media/vehicle.png": "/testing-switch/static/media/vehicle.915f1014fea063ce960d.png",
     "static/media/test.png": "/testing-switch/static/media/test.049c7c7886c29b9ac0a5.png",
     "static/media/crypto.png": "/testing-switch/static/media/crypto.e7802294a2550ed31546.png",
     "static/media/img1.jpeg": "/testing-switch/static/media/img1.bd7ef9c52166e58277b0.jpeg",
@@ -36,11 +37,11 @@
     "static/media/discord.png": "/testing-switch/static/media/discord.954268dd304e82cea9a4.png",
     "static/media/linkedIn.png": "/testing-switch/static/media/linkedIn.68ac41e1459436bfd38f.png",
     "index.html": "/testing-switch/index.html",
-    "main.5a2336cf.css.map": "/testing-switch/static/css/main.5a2336cf.css.map",
-    "main.9424c388.js.map": "/testing-switch/static/js/main.9424c388.js.map"
+    "main.b2450f36.css.map": "/testing-switch/static/css/main.b2450f36.css.map",
+    "main.fefe4a08.js.map": "/testing-switch/static/js/main.fefe4a08.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a2336cf.css",
-    "static/js/main.9424c388.js"
+    "static/css/main.b2450f36.css",
+    "static/js/main.fefe4a08.js"
   ]
 }
