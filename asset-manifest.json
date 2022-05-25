@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/testing-switch/static/css/main.94e47fd0.css",
-    "main.js": "/testing-switch/static/js/main.fefe4a08.js",
+    "main.css": "/testing-switch/static/css/main.395cdd4b.css",
+    "main.js": "/testing-switch/static/js/main.6adc0b68.js",
     "static/media/animatedcommunity.png": "/testing-switch/static/media/animatedcommunity.18fa216d41b3d5705ffa.png",
     "static/media/animatedstability.png": "/testing-switch/static/media/animatedstability.22022d2dfdaf27987000.png",
     "static/media/Diversity.png": "/testing-switch/static/media/Diversity.76ec82812466bcfdecac.png",
@@ -11,7 +11,6 @@
     "static/media/sustainability.png": "/testing-switch/static/media/sustainability.84c96c8c7b62c0b05e92.png",
     "static/media/equity.png": "/testing-switch/static/media/equity.bcf2039df01d70adee14.png",
     "static/media/streets.png": "/testing-switch/static/media/streets.e4896164a51db2ec102a.png",
-    "static/media/test.jpg": "/testing-switch/static/media/test.0ca8dc1faca6088420ac.jpg",
     "static/media/newblogo.png": "/testing-switch/static/media/newblogo.958ade901d29e8bf89ec.png",
     "static/media/newwlogo.png": "/testing-switch/static/media/newwlogo.a36f4eb0cedfd709747c.png",
     "static/media/institutions.png": "/testing-switch/static/media/institutions.31b2248641be5c955d1d.png",
@@ -37,11 +36,11 @@
     "static/media/discord.png": "/testing-switch/static/media/discord.954268dd304e82cea9a4.png",
     "static/media/linkedIn.png": "/testing-switch/static/media/linkedIn.68ac41e1459436bfd38f.png",
     "index.html": "/testing-switch/index.html",
-    "main.94e47fd0.css.map": "/testing-switch/static/css/main.94e47fd0.css.map",
-    "main.fefe4a08.js.map": "/testing-switch/static/js/main.fefe4a08.js.map"
+    "main.395cdd4b.css.map": "/testing-switch/static/css/main.395cdd4b.css.map",
+    "main.6adc0b68.js.map": "/testing-switch/static/js/main.6adc0b68.js.map"
   },
   "entrypoints": [
-    "static/css/main.94e47fd0.css",
-    "static/js/main.fefe4a08.js"
+    "static/css/main.395cdd4b.css",
+    "static/js/main.6adc0b68.js"
   ]
 }
